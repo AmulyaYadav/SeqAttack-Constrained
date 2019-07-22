@@ -1,0 +1,12 @@
+# Don't track content of these folders
+bin/
+
+
+# ignore hidden files
+.*
+!.gitignore
+
+# Compiled source #
+###################
+*.log
+*.lp
